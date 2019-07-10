@@ -27,7 +27,7 @@ List of volunteers (The instructor has received as confirmed by documents).
 |:-----:|------|-------------|----|---------------------|
 |  1 |Wed 26 Jun 2019| Orientation and Intro to Communication| [[course description]](https://drive.google.com/file/d/17zwMrWtzY4BZqPxuOGUU_TA_riljR0rv/view?usp=sharing), [[wc-week-1.pdf]](https://drive.google.com/file/d/10Q0Vgfu89kDkFgb4z3RD9T_HVFaXgHOa/view?usp=sharing), [[A Brief History of Communications]](https://www.mebmarket.com/index.php?action=BookDetails&book_id=20)| HW\#1(Caesar Cipher) Wed 26 Jun 2019 < 23:59|
 |No-Class | Wed 10 Jul 2019 | Assignment | - [เว็บไซต์ราชกิจจานุเบกษา](http://www.mratchakitcha.soc.go.th/index.php) <br> - [เว็บไซต์ กสทช](https://www.nbtc.go.th/Home.aspx)| [HW\#2](hw2.md) |
-| - |Wed 17 Jul 2019| * Attenuation <br> * Software learning based Attenuation model | [[WC-week-2.pdf]](), [[Flow Graph]](https://www.mebmarket.com/index.php?action=BookDetails&book_id=20) <br> **supplements** :<br> - [GNURadio Attenuation]() | HW\#2 Wed 3 Jul 2019 < 23:59|
+| - |Wed 17 Jul 2019| * Attenuation <br> * Software learning based Attenuation model | [[WC-week-2.pdf]](), [[Flow Graph]](https://www.mebmarket.com/index.php?action=BookDetails&book_id=20) <br> **supplements** :<br> - [GNURadio Attenuation]() | |
 | 8 | 5-11 Aug 2019 | Midterm Exam || Close book |
 | 16 | 18 Sep 2019 | Project Presentation || |
 | 17 | 23 Sep 2019 | Final Exam  || Close book |
