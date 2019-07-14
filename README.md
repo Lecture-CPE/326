@@ -15,8 +15,9 @@ This course is primarily designed for undergraduate students. Students become fa
 | 3 |Aug 2019 |Introduction to Wireless communications || |
 | 4 |Sat 20 Sep 2019 | Modern wireless communication || |
 | 5 |Sun 21 Sep 2019 |Concept of cellular system  || |
-| 6 | Sep 2019 |Modern cellular system  || |
-| 7 |Sep 2019 |Modern cellular system  || |
+|**No class** <br> Due to RMUTCON2019| Wed 24-Jul-2019| || |
+| 6 | Aug 2019 |Modern cellular system  || |
+| 7 |Aug 2019 |Modern cellular system  || |
 | 8 | 5-11 Aug 2019 | Midterm Exam || Close book |
 | 9 |Sat 20 Jul 2019| * Software learning based : Radio Frequency| [[WC-week-9.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
 | 10 |Sun 21 Jul 2019| * Software learning based : Attenuation model | [[WC-week-10.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
