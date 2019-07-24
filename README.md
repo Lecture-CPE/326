@@ -15,12 +15,11 @@ This course is primarily designed for undergraduate students. Students become fa
 | 3 |Sat 20-Jul-2019| Wave | **Slide** <br> * [lecture-2-wave.pdf](https://drive.google.com/file/d/1_2yZwXBekSJTKmKXsMZQYgtZCRgbeQX4/view?usp=sharing) <br> **supplements** :<br> - [ITU : Terminology and technical characteristics](https://life.itu.int/radioclub/rr/art1.pdf)<br> - [สรุปรายงาน การเข้าฝึกอบรม Digital Transmission Training Course](https://drive.google.com/file/d/1dRvecXrXx1f9HsUTGAoDn2e9yF1mZzU6/view?usp=sharing)<br> - [Acoustics I](https://drive.google.com/file/d/1_5Wt4TRPjTBAInngYiI69LO27hHnXMcs/view?usp=sharing)<br>| |
 | 4 |Sun 21-Jul-2019|Software Defined Radio | **Slide** <br> - [GNURadio](https://drive.google.com/file/d/1VUYTJmo6XGxE6sed5oaH3f3DFYvkk7Gs/view?usp=sharing) <br> **supplements** :<br> - [Wireless Weekly Newsletter](https://www.ecnmag.com)| |
 |**No class** <br> Due to RMUTCON2019| Wed 24-Jul-2019| || |
-| 5 |Aug-2019 |Multiple Access|**Slide**<br> * [4-multipleaccess](https://www.cpe.ku.ac.th/~cpj/204325/slides/11-multiaccess.pdf)   || |
-| 6 |Aug-2019 |Modern cellular system  || |
-| 7 |Aug-2019 |Modern cellular system  || |
-| 8| 5-11 Aug 2019 | Midterm Exam || Close book |
-| 9 || * Software learning based : Radio Frequency| [[WC-week-9.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
-| 10 || * Software learning based : Attenuation model | [[WC-week-10.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
+| 5 |Wed 7-Aug-2019 |- Student progress update <br> **Slide** <br> Multiple Access|**Slide**<br> * [4-multipleaccess](https://www.cpe.ku.ac.th/~cpj/204325/slides/11-multiaccess.pdf)   || |
+| 6| Wed 14-Aug-2019 | Midterm Exam || Close book |
+| 7 |Wed 21-Aug-2019 |- Student present mini-project <br> **Slide** <br> Modern cellular system  || |
+| 8 || * Software learning based : Radio Frequency| [[WC-week-9.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
+| 9 || * Software learning based : Attenuation model | [[WC-week-10.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
 | 16 | 18 Sep 2019 | Project Presentation || |
 | 17 | 23 Sep 2019 | Final Exam  || Close book |
 
