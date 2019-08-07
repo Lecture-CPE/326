@@ -16,8 +16,8 @@ This course is primarily designed for undergraduate students. Students become fa
 | 4 |Sun 21-Jul-2019|Software Defined Radio | **Slide** <br> - [GNURadio](https://drive.google.com/file/d/1VUYTJmo6XGxE6sed5oaH3f3DFYvkk7Gs/view?usp=sharing) <br> **supplements** :<br> - [Wireless Weekly Newsletter](https://www.ecnmag.com)| |
 |**No class** <br> Due to RMUTCON2019| Wed 24-Jul-2019| || |
 |**No class**| Wed 31-Jul-2019| || |
-| 5 |Wed 7-Aug-2019 |- Student progress update <br> **Slide** <br> Multiple Access|**Slide**<br> * [4-multipleaccess](https://www.cpe.ku.ac.th/~cpj/204325/slides/11-multiaccess.pdf)   || |
-| 6| Wed 14-Aug-2019 | Midterm Exam || Close book |
+| 5 |Wed 7-Aug-2019 |- Student progress update <br> **Slide** <br> Multiple Access|**Slide**<br> * [multipleaccess](https://drive.google.com/file/d/1E-KIsL_VLurLt_5ZAgXM45D8MNjAthQx/view?usp=sharing)   || |
+| 6| Wed 14-Aug-2019 | <s>Midterm Exam</s> || Close book |
 | 7 |Wed 21-Aug-2019 |- Student present mini-project <br> **Slide** <br> Modern cellular system  || |
 | 8 || * Software learning based : Radio Frequency| [[WC-week-9.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
 | 9 || * Software learning based : Attenuation model | [[WC-week-10.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
