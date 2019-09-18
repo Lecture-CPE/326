@@ -20,9 +20,9 @@ This course is primarily designed for undergraduate students. Students become fa
 | 6| Wed 14-Aug-2019 | <s>Midterm Exam</s> || Close book |
 | 7 |Wed 21-Aug-2019 |- Student present mini-project <br> IEEE802.11   |**Slide** <br> [IEEE802.11 part1](https://drive.google.com/open?id=1UWBHsUTPQ7KaB0aibib6p3OqiSFD2cz1) | HW3 Due date : Friday 23-Aug-2019 |
 | 8 |Wed 28-Aug-2019| * Software learning based : Attenuation model | [[WC-week-10.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
-| 9| Wed 14-Aug-2019 |   ||   |
-| 10| Wed 4-Sep-2019 |   ||   |
-| 11| Wed 11-Sep-2019 |   ||   |
+| 9| Wed 14-Aug-2019 | Stream cipher : RC4  | **Slide** <br> - [RC4](https://drive.google.com/open?id=1DKze-ZsJqpncF9RU88jm8SH2HB-kClsL) |   |
+| 10| Wed 4-Sep-2019 | Frame check sequence : CRC   | **Slide** <br> - [CRC](https://drive.google.com/open?id=1DISePuTSqz3zmxV5nFbincca_TvncUxS)|   |
+| 11| Wed 11-Sep-2019 | WiFi : Beacon frame   | **Slide** <br> - [Beacon](https://drive.google.com/open?id=1uYRthPhOb9zQfIzD6oWobCumgkOkyNa2)|   |
 |12|Wed 18-Sep-2019| Long-term evolution | **Slide** <br> - [LTE](https://drive.google.com/open?id=1yF-A_8wq7_SA8KdX1mADSxR8yEH9hXX5) <br> **Suplements** <br> - [LTE FDD Resource block](https://drive.google.com/open?id=1Yk_QbVomrW_EzfQm3LZKftw7IwCzV-cO) | |
 | 13| Wed 25-Sep-2019 |   ||   |
 | 14| Wed 2-Oct-2019 |   ||   |
