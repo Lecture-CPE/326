@@ -19,6 +19,7 @@ This course is primarily designed for undergraduate students. Students become fa
 | 5 |Wed 7-Aug-2019 |- Student progress update <br> **Slide** <br> Multiple Access|**Slide**<br> * [multipleaccess](https://drive.google.com/file/d/1E-KIsL_VLurLt_5ZAgXM45D8MNjAthQx/view?usp=sharing)   || |
 | 6| Wed 14-Aug-2019 | <s>Midterm Exam</s> || Close book |
 | 7 |Wed 21-Aug-2019 |- Student present mini-project <br> IEEE802.11   |**Slide** <br> [IEEE802.11 part1](https://drive.google.com/open?id=1UWBHsUTPQ7KaB0aibib6p3OqiSFD2cz1) | HW3 Due date : Friday 23-Aug-2019 |
+|13|Wed 18-Sep-2019| Long-term evolution | **Slide** <br> - [LTE](https://drive.google.com/open?id=1yF-A_8wq7_SA8KdX1mADSxR8yEH9hXX5) | |
 | 8 || * Software learning based : Radio Frequency| [[WC-week-9.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
 | 9 || * Software learning based : Attenuation model | [[WC-week-10.pdf]]() <br> **supplements** :<br> - [Guided Tutorial GRC](https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC) | |
 | 16 | 18 Sep 2019 | Project Presentation || |
