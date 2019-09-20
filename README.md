@@ -3,6 +3,8 @@
 ## Objectives
 This course is primarily designed for undergraduate students. Students become familiar with Data Communications and Wireless communication concepts and terminologies.
 
+## Score
+- [Attendance (Fri 20-Sep-2019)](https://drive.google.com/open?id=1k6TGAELic2VnW5y_uZOq_SaNnQXkd4yQ) :new:
 
 
 ## Resources
