@@ -26,7 +26,7 @@ This course is primarily designed for undergraduate students. Students become fa
 | 10| Wed 4-Sep-2019 | Frame check sequence : CRC   | **Slide** <br> - [CRC](https://drive.google.com/open?id=1DISePuTSqz3zmxV5nFbincca_TvncUxS)|   |
 | 11| Wed 11-Sep-2019 | WiFi : Beacon frame   | **Slide** <br> - [Beacon](https://drive.google.com/open?id=1uYRthPhOb9zQfIzD6oWobCumgkOkyNa2)|   |
 |12|Wed 18-Sep-2019| Long-term evolution | **Slide** <br> - [LTE](https://drive.google.com/open?id=1yF-A_8wq7_SA8KdX1mADSxR8yEH9hXX5) <br> **Suplements** <br> - [LTE FDD Resource block](https://drive.google.com/open?id=1Yk_QbVomrW_EzfQm3LZKftw7IwCzV-cO) | |
-| 13| Wed 25-Sep-2019 |   ||   |
+| 13| Wed 25-Sep-2019 | **Slide**<br> - [LoRa and LoRaWAN](https://drive.google.com/open?id=1spu7K4zzRaNDMTcCa4l6cF8DtMOrQoON)  ||   |
 | 14| Wed 2-Oct-2019 |   ||   |
 | 15 | X-Oct-2019 | Final Exam  || Close book |
 
