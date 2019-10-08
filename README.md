@@ -4,8 +4,12 @@
 This course is primarily designed for undergraduate students. Students become familiar with Data Communications and Wireless communication concepts and terminologies.
 
 ## Score
-- [Attendance (Fri 20-Sep-2019)](https://drive.google.com/open?id=1k6TGAELic2VnW5y_uZOq_SaNnQXkd4yQ) :new:
+- [Attendance (Tue 8-Oct-2019)](https://drive.google.com/file/d/1VthKgLyPIjjSUz6f6UFNHBY79T2jyQ13/view?usp=sharing)  :new:
+## Archive
+- [Attendance (Fri 20-Sep-2019)](https://drive.google.com/open?id=1k6TGAELic2VnW5y_uZOq_SaNnQXkd4yQ)
 
+## Chance on upgrade
+044, 127
 
 ## Resources
 
