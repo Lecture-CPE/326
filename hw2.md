@@ -14,4 +14,5 @@
 # กำหนดส่ง 
 * 12 กค 2562 23:59
 * ส่งด้วย text file (ไม่ใช่ doc) พิมพ์ด้วยตนเอง
-* https://github.com/songritk/cpe-wc
+* <s>https://github.com/songritk/cpe-wc</s>
+* https://github.com/Lecture-CPE/426
